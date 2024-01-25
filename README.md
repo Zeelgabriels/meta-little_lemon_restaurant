@@ -3,7 +3,7 @@
 Final capstone project for Meta Front-end developer program on Coursera, which contains a detailed and responsive website with table-booking functionality built using React.
 
 
-Logo: ![Alt](https://i.ytimg.com/vi/HJqTy-q-P4o/maxresdefault.jpg "little-lemon Logo")
+![Alt](https://i.ytimg.com/vi/HJqTy-q-P4o/maxresdefault.jpg "little-lemon Logo")
 
 ### Tech Stack:
 
