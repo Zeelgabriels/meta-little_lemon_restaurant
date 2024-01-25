@@ -5,6 +5,9 @@ Final capstone project for Meta Front-end developer program on Coursera, which c
 
 ![Alt](https://i.ytimg.com/vi/HJqTy-q-P4o/maxresdefault.jpg "little-lemon Logo")
 
+<h3 align="center"><a href="https://meta-little-lemon-restaurant-five.vercel.app/"><strong>« Try the demo here »</strong></a></h3>
+
+
 ### Tech Stack:
 
 - HTML, CSS
