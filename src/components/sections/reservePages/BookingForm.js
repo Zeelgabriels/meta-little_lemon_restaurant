@@ -74,7 +74,7 @@ export default function ReservationForm(props) {
         <input
           type="tel"
           id="phonenum"
-          placeholder="(xxx)-xxx-xxxx"
+          placeholder="xxx-xxxx-xxxx"
           value={tel}
           required
           minLength={10}
